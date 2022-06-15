@@ -1,4 +1,4 @@
-# Radix System Converter
+# Radix System Converter GUI
 
 
 - Designed and developed in 2020
