@@ -11,3 +11,5 @@ The programming language used is Python. This repository conists of a single mai
 
 ## Functions
 
+The main file has a convert() function that converts numbers from octal, hexadecimal, binary, decimal to one another.
+
