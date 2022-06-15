@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This is a graphical user interface that allows the user to convert numbers between various systems with different radix such as Binary, Decimal, Octal and Hexadecimal. This helps students in understanding how to convert numbers between various systems and how the computers convert our messages in such systems to understand them. This was an independent project.
+This is a graphical user interface that allows the user to convert numbers between various systems with different radix such as Binary, Decimal, Octal and Hexadecimal. This helps students in understanding how to convert numbers between various systems and how the computers convert our messages in such systems to understand them.
 
 ## Repository Information
 
