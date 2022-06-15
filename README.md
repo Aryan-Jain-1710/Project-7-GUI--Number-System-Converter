@@ -6,7 +6,7 @@ This is a graphical user interface that allows the user to convert numbers betwe
 
 ## Repository Information
 
-The programming language used is Python. This repository consists of a single main.py python file.
+The programming language used is Python. This repository consists of a single main.py python file. The libraries used include tkinter, ttkthemes and string.
 
 
 ## Functions
