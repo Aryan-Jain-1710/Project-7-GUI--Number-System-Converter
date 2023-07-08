@@ -1,4 +1,4 @@
-# Radix System Converter GUI
+# Radix Converter
 
 A simple app that allows the user to convert numbers between various systems with different radix such as Binary, Decimal, Octal and Hexadecimal. 
 
