@@ -1,6 +1,6 @@
 # Radix Converter
 
-A simple app that allows the user to convert numbers between various systems such as Binary, Decimal, Octal and Hexadecimal. 
+A simple app that allows the user to convert numbers between various systems such as Binary, Decimal, Octal, and Hexadecimal. 
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@ A simple app that allows the user to convert numbers between various systems suc
 
 
 ## Purpose
-This project was created to learn more about how different number systems work and how to convert numbers between them. It also helped me learn more about the tkinter library and how to create a GUI with it. I learnt how important and helpful radix systems are in the world of computers and how they are used to convert our messages into binary numbers that the computer can understand.
+This project was created to learn more about how different number systems work and how to convert numbers between them. It also helped me learn more about the tkinter library and how to create a GUI with it. I learned how important and helpful radix systems are in the world of computers and how they are used to convert our messages into binary numbers that the computer can understand.
 
 
 ## Technologies and Libraries Used
@@ -26,7 +26,7 @@ This project was created to learn more about how different number systems work a
 
 
 ## Setup
-Make sure you have the latest version of python installed on your computer and you have installed the libraries mentioned above. You can install the libraries using the following commands in the terminal:
+Make sure you have the latest version of Python installed on your computer and you have installed the libraries mentioned above. You can install the libraries using the following commands in the terminal:
 ```
 pip install tkinter
 pip install ttkthemes
@@ -36,7 +36,7 @@ pip install string
 
 
 ## Repository Information
-This repository consists of a single main.py python file. The file has the folloing functions:
+This repository consists of a single main.py Python file. The file has the following functions:
 - convert() - converts numbers between different radix systems
 - main() - creates the GUI and calls the convert() function
 - mainloop() - runs the GUI
