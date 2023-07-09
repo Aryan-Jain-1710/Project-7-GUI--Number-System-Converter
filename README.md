@@ -1,6 +1,6 @@
 # Radix Converter
 
-A simple app that allows the user to convert numbers between various systems with different radix such as Binary, Decimal, Octal and Hexadecimal. 
+A simple app that allows the user to convert numbers between various systems such as Binary, Decimal, Octal and Hexadecimal. 
 
 
 ## Table of Contents
