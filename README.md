@@ -3,9 +3,6 @@
 A simple app that allows the user to convert numbers between various systems with different radix such as Binary, Decimal, Octal and Hexadecimal. 
 
 
-This helps students in understanding how to convert numbers between various systems and how the computers convert our messages in such systems to understand them.
-
-
 ## Table of Contents
 - [Purpose](#purpose)
 - [Technologies and Libraries Used](#technologies-and-libraries-used)
