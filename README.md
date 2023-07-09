@@ -26,13 +26,7 @@ This project was created to learn more about how different number systems work a
 
 
 ## Setup
-Make sure you have the latest version of Python installed on your computer and you have installed the libraries mentioned above. You can install the libraries using the following commands in the terminal:
-```
-pip install tkinter
-pip install ttkthemes
-pip install tkinter.scrolledtext
-pip install string
-```
+Make sure to git clone this repository. After cloning, make sure the latest version of Python and all mentioned packages are installed and the project is ready for use!
 
 
 ## Repository Information
