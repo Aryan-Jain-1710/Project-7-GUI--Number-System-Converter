@@ -38,7 +38,7 @@ This repository consists of a single main.py Python file. The file has the follo
 
 
 ## Usage
-<img src="image.png" width="500">
+<kbd><img src="image.png" width="500"></kbd>
 
 
 To run the program, open the terminal and navigate to the directory where the main.py file is located. Then run the following command:
